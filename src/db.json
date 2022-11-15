@@ -1,0 +1,30 @@
+{
+  "NavBar": [
+    {
+      "navbar": "Skill",
+      "dropMenu1": "css",
+      "dropMenu2": "javaScrit",
+      "dropMenu3": "React js",
+      "dropMenu4": "Backend Developer",
+      "language": {
+        "items1": "Node JS",
+        "items2": "Python",
+        "items3": "Java"
+      },
+      "id": 1
+    },
+    {
+      "id": 2,
+      "navbar": "Services",
+      "dropMenu1": "Android Developer",
+      "dropMenu2": "Website Developer",
+      "dropMenu3": "Training",
+      "dropMenu4": "Others",
+      "language": {
+        "items1": "Marketing",
+        "items2": "HR",
+        "items3": "Manager"
+      }
+    }
+  ]
+}
